@@ -1,2 +1,4 @@
-# discourse-trust-level-avatar-flair-images
-Separate image assets to avoid replacing user's images upon updating the main theme
+# Trust-Level Avatar Flair Image Assets
+This a child theme compoenent of the Trust-Level Avatar Flair Theme Component. It is used to separate the image assets for the main theme in an effort to avoid replacing user defined images upon updating the main theme.
+
+See https://meta.discourse.org/t/82656 for more details.
