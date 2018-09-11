@@ -8,5 +8,6 @@
        "member-flair": "assets/placeholder.png",
        "regular-flair": "assets/placeholder.png",
        "leader-flair": "assets/placeholder.png"
-   }
+   },
+  "component": true
 }
